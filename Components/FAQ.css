@@ -1,0 +1,30 @@
+/*Frequently Asked Question page styling*/
+.FAQ{
+  padding-left: 250px;
+  padding-right: 250px;
+}
+.FAQ1 h2{
+  padding-left: 350px;
+  padding-right: 250px;
+  font-size: 60px;
+  font-weight: 700;
+  font-family: 'Times New Roman', Times, serif;
+  color: #750c38;
+}
+.hr4{
+margin-left: 10px;
+margin-right: 10px;
+padding-bottom: 20px;
+}
+.FAQ h1{
+  font-size: 38px;
+  font-weight: 700;
+  color: #141414;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.FAQ p{
+  font-size: 21px;
+  font-weight: 400;
+  color: #615e5e;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

@@ -1,0 +1,88 @@
+/*Privacy page Styling*/
+.policy{
+    padding-left: 40px;
+   }
+   .policy h5{
+    font-size: 18px;
+    color: #807b7b;
+    padding-left: 100px;
+   }
+   .policy h3{
+    padding-left: 90px;
+    font-size: 35px;
+    font-weight: 600;
+   }
+   .policy img{
+    padding-left: 90px;
+    width:700px;
+    height: 400px;
+   }
+   .policy p{
+    padding-left: 90px;
+    font-size: 16px;
+    font-weight: 100;
+    padding-right: 250px;
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+   }
+
+   .policy-paragraph p{
+    padding-left: 90px;
+    font-size: 16px;
+    font-weight: 100;
+    padding-right: 500px;
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+   }
+   .policy ul{
+    padding-left: 70px;
+    font-size: 15px;
+    font-weight: 700;
+    color: #2c2b2b;
+    padding-right: 300px;
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+   }
+   .policy li{
+    padding-bottom: 15px;
+    text-decoration: underline;
+   }
+.hr1{
+    padding-left: 120px;
+    padding-right:510px;
+}
+.policy h4{
+    padding-left: 90px;
+    font-size: 25px;
+    font-weight: 600;
+   }
+ 
+   .column4{
+    width: 22%;
+    height: 125px;
+    margin-left: 70px;
+    float: right;
+  padding-left: 15px;
+  padding-right: 10px;
+  margin-top: 60px;
+  margin-right: 90px;
+  background-color: #fff;
+  border-radius: 10px;
+  border: 1px solid rgb(76, 80, 73);
+  margin-bottom: 50px;
+  }
+  .column4 h4{
+    padding-left: 10px;
+    font-size: 18px;
+    font-weight: 200;
+  }
+  #btn{
+    width: 250px;
+    height: 30px;
+    background-color: rgb(236, 25, 88);
+    color: white;
+    font-size: medium;
+    border-radius: 10px;
+    border: none;
+   margin-left: 20px;
+  }
+  #btn:focus{
+    background-color: rgb(206, 6, 66);
+  }

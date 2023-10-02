@@ -1,0 +1,63 @@
+/*Cancellation Page Styling*/
+.cancellation{
+    margin-left: 120px;
+    margin-right: 550px;
+  }
+  .cancellation h2{
+  font-size: 20px;
+  color: #575555;
+  }
+  .cancellation1{
+    margin-left: 120px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+  }
+  .cancellation h1{
+    font-size: 33px;
+    color: #050505;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .cancellation1{
+      font-size: 20px;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+      float: left;
+      width: 50%;
+    height: 200px; 
+    border: 1px solid grey;
+    border-radius: 10px;
+    padding-bottom: 10px;
+  
+    }
+    .cancellation1 p{
+      font-size: 18px;
+      padding-left: 20px;
+      padding-right: 10px;
+    }
+    .cancellation2{
+      margin-left: 120px;
+    margin-right: 550px;
+    }
+    .cancellation2 p{
+      font-size: 17px;
+      color: #363535;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      font-style: normal;
+      word-spacing: 1px;
+      letter-spacing: .2px;
+    }
+    .cancellation2 h2{
+      font-size: 25px;
+      font-weight: 500;
+      color: black;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+    .cancellation2 h4{
+      font-size: 18px;
+      font-weight: 600;
+      font-family: Arial, Helvetica, sans-serif;
+      color: #363535;
+      padding-bottom: 10px;
+      padding-top: 10px;
+    }
+  

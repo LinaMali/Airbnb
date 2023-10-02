@@ -1,0 +1,94 @@
+/*Career Page Styling*/
+.Career h2{
+    font-size: 20px;
+    font-weight: 700;
+    padding-left: 80px;
+    }
+    .Career img{
+      width: 1100px;
+      height: 500px;
+      padding-left: 120px;
+    }
+    .Career h4{
+      font-size: 15px;
+      font-weight: 700;
+      color: #575555;
+      padding-left: 250px;
+      }
+      .Career h1{
+        font-size: 38px;
+        font-weight: 700;
+        padding-left: 250px;
+        padding-right: 250px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+       .Career p{
+        font-size: 21px;
+        font-weight: 400;
+        color: #615e5e;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      padding-left: 250px;
+      padding-right: 250px;
+       } 
+       #careerimg{
+        width: 1320px;
+        height: 500px;
+        padding-left: 5px;
+        padding-right: 5px;
+       }
+       .Career2{
+        margin-left: 250px;
+    
+       }
+       .Career1{
+        float: left;
+        width: 30%;
+      height: 200px;  
+      margin-bottom: 20px;
+       }
+       .Career1 h3{
+        padding-right: 100px;
+        text-align: center;
+       }
+       .Career1 img{
+        padding-left: 50px;
+       
+       }
+       .career4{
+        margin-left: 20px;
+       }
+       .Career3{
+        font-size: 20px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+        float: left;
+        width: 37%;
+      height: 270px; 
+      padding-left: 80px;
+      padding-bottom: 70px;
+       }
+       .Career3 h3{
+        font-size: 30px;
+        font-weight: 600;
+        color: #2e2b2b;
+       }
+       .Career3 p{
+        font-size: 21px;
+        font-weight: 400;
+        color: #615e5e;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+       }
+       .Career5{
+        padding-left: 50px;
+       }
+       .Career5 h1{
+        font-size: 38px;
+        font-weight: 700;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+       .Career5 p{
+        font-size: 21px;
+        font-weight: 400;
+        color: #615e5e;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      padding-right: 20px;
+       } 
